@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3r_MbMrMQiKjXEeYAAAD",
+    "username": "Ally_Arshad",
+    "room": "Room-1"
+  },
+  {
+    "id": "l5eMB8EmJVvJqq4nAAAF",
+    "username": "Ally_Arshad",
+    "room": "Room-1"
+  }
+]
